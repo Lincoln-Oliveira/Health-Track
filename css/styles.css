@@ -1,0 +1,35 @@
+ /* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container-fluid{
+    padding: 0;
+    background-color: #00ADB5;
+}
+
+/* Navigation Bar */
+
+.navbar{
+    padding: 0 0 4.5rem;
+    
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+/* login */
+
+#login {
+    padding: 10% 20%;
+    background-color: #EEEEEE;
+    margin-bottom: 0;
+}
+
+.form-control {
+    width: auto;
+}
